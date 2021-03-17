@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="boordcomputer_dienst_starten" />
+              <option name="title_text" value="dienst_starten" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1373,11 +1373,13 @@
             <slidelink slideid="_player.5pEkHNOg94X.6QrFZlvP9AU" displaytext="Overzicht" expand="false" type="slide" />
             <slidelink slideid="_player.5pEkHNOg94X.6EOE6dWOuZw" displaytext="Acitiveiten" expand="false" type="slide" />
             <slidelink slideid="_player.5pEkHNOg94X.6fiZ5rM9oZd" displaytext="Dienst starten" expand="false" type="slide" />
+            <slidelink slideid="_player.5pEkHNOg94X.6aSJ9p3kH68" displaytext="Diensttijden" expand="false" type="slide" />
             <slidelink slideid="_player.5pEkHNOg94X.5YRnnkhdF6n" displaytext="Ritoverzicht" expand="false" type="slide" />
             <slidelink slideid="_player.5pEkHNOg94X.6qt2DzlbXF0" displaytext="Trailer" expand="false" type="slide" />
             <slidelink slideid="_player.5pEkHNOg94X.6hK2d5KzaXO" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5pEkHNOg94X.5Ujjx98qhxI" displaytext="Navigatie checkon" expand="false" type="slide" />
-            <slidelink slideid="_player.5pEkHNOg94X.6nBw6gU9knj" displaytext="Diensttijden" expand="false" type="slide" />
+            <slidelink slideid="_player.5pEkHNOg94X.5v41IRbbB5o" displaytext="De rit zelluf" expand="false" type="slide" />
+            <slidelink slideid="_player.5pEkHNOg94X.6nBw6gU9knj" displaytext="Berichten" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
