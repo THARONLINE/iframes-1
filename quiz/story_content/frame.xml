@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Quiz Template by Montse" />
+              <option name="title_text" value="Quiz" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1368,11 +1368,13 @@
       <links>
         <slidelink slideid="_player.5kE3Yoi5rqY" displaytext="Quiz" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5kE3Yoi5rqY.6S4sQZ6lobt" displaytext="Wat is hier de mate van beeldkwaliteit?" expand="false" type="slide" />
-            <slidelink slideid="_player.5kE3Yoi5rqY.5l816SeQFRS" displaytext="Wat is hier de mate van beeldkwaliteit?" expand="false" type="slide" />
-            <slidelink slideid="_player.5kE3Yoi5rqY.66ytd0VahFx" displaytext="Wat is hier de mate van beeldkwaliteit?" expand="false" type="slide" />
-            <slidelink slideid="_player.5kE3Yoi5rqY.6h0OAheNAcH" displaytext="Wat is hier de mate van beeldkwaliteit?" expand="false" type="slide" />
-            <slidelink slideid="_player.5kE3Yoi5rqY.5veUzs8cMXw" displaytext="Wat is hier de mate van beeldkwaliteit?" expand="false" type="slide" />
+            <slidelink slideid="_player.5kE3Yoi5rqY.6S4sQZ6lobt" displaytext="Welke score past bij dit kwaliteitsbeeld?" expand="false" type="slide" />
+            <slidelink slideid="_player.5kE3Yoi5rqY.6PChexN41da" displaytext="Welke score past bij dit kwaliteitsbeeld?" expand="false" type="slide" />
+            <slidelink slideid="_player.5kE3Yoi5rqY.5iDtf6kUb9Z" displaytext="Druk op        volgende        om verder te gaan" expand="false" type="slide" />
+            <slidelink slideid="_player.5kE3Yoi5rqY.5l816SeQFRS" displaytext="Welke score past bij dit kwaliteitsbeeld?" expand="false" type="slide" />
+            <slidelink slideid="_player.5kE3Yoi5rqY.66ytd0VahFx" displaytext="Welke score past bij dit kwaliteitsbeeld?" expand="false" type="slide" />
+            <slidelink slideid="_player.5kE3Yoi5rqY.6h0OAheNAcH" displaytext="Welke score past bij dit kwaliteitsbeeld?" expand="false" type="slide" />
+            <slidelink slideid="_player.5kE3Yoi5rqY.5veUzs8cMXw" displaytext="Welke score past bij dit kwaliteitsbeeld?" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5k4CRpc0CTO" displaytext="SlideLizard Quiz Templates" expand="true" type="slide">
